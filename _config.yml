@@ -1,7 +1,28 @@
+---
+title: Ahmad Khan
+timezone: UTC
 collections:
- - portfolio
- - education
- - experience
- - testimonials
- - goals
- - skills 
+  education:
+    title: Education
+    output: false
+  experience:
+    title: Experience
+    output: false
+  goals:
+    title: Goals
+    output: false
+  portfolio:
+    title: Portfolio
+    output: false
+  posts:
+    title: Posts
+    output: true
+  skills:
+    title: Skills
+    output: false
+  testimonials:
+    title: Testimonials
+    output: false
+  uploads:
+    title: Uploads
+    output: true
